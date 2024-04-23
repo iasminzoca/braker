@@ -23,6 +23,13 @@
 
 .container{
     height: 100vh;
+    display: grid;
 }
 
-
+.container__botao{
+    background-color: var(--botao-roxo);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--lilás-principal);
+    display: block;
+}
