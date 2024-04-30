@@ -33,9 +33,19 @@
     padding: 1em;
     color: var(--lilás-principal);
     display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao__secundario {
     background-color: transparent;
     border: 2px solid var(--lilás-principal)
+}
+
+.container__imagem {
+  margin: 1em 0 2em 0;
+}
+
+.container__caixa {
+    margin: 0 6em;
 }
