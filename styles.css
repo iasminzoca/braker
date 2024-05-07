@@ -1,13 +1,13 @@
 :root {
-    --lilás-principal: #fefefe;
+    --lilás-principal: #a64cdf;
     --branco-secundario: #fbfbfb;
     --botao-roxo: #7d1ed5;
-    --cor-de-fundo: #00030C;
+    --cor-de-fundo: #5071d5;
 }
 
  body {
     background-color: var(--cor-de-fundo);
-    color: var(--branco-principal);
+    color: var(--lilás-principal);
 }
 
 * {
@@ -41,7 +41,7 @@
 
 .botao__secundario {
     background-color: transparent;
-    border: 2px solid var(--branco-principal)
+    border: 2px solid var(--lilás-principal-principal)
 }
 
 .container__imagem {
