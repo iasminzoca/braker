@@ -1,6 +1,6 @@
 :root {
     --lilás-principal: #474bc3;
-    --preto-secundario: #000000;
+    --branco-secundario: #fbfbfb;
     --botao-roxo: #7d1ed5;
     --cor-de-fundo: #00030C;
 }
@@ -67,7 +67,7 @@
     margin-bottom: 0.1em;
 }
 .descricao__texto{
-    color: var(--preto-secundario);
+    color: var(--branco-secundario);
 }
 
 .secundario__botao{
