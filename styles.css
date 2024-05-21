@@ -6,7 +6,8 @@
 }
 
  body {
-    background-color: linear-gradient(to top, #d5c1e1,#7d1ed5);
+    background-color: var(--cor-de-fundo);
+    background: linear-gradient(to top, #d5c1e1,#7d1ed5);
     color: var(--lilás-principal);
 }
 
