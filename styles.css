@@ -123,3 +123,12 @@
     text-align: center;
     margin: 5em 3em;
 }
+
+.lista__link a: :hover {
+    color: var(--botao-roxo--)
+}
+
+.lista__link a:active{
+    color: purple;
+}
+
