@@ -132,3 +132,11 @@
     color: purple;
 }
 
+:root{
+    --lilas-principal:var(--lilas-principal--)
+    --branco-secundario: #FFFFFF
+    --botao-roxo:var(--botao-roxo)
+    var(--cor-de-fundo)
+    --fonte-principal
+    --botao-azul-efeito: #3292fa
+}
