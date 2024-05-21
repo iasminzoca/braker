@@ -7,7 +7,7 @@
 
  body {
     background-color: var(--cor-de-fundo);
-    background: linear-gradient(to top, #000000,#a97cd4);
+    background: linear-gradient(to bottom, #000000,#a97cd4);
     color: var(--lilás-principal);
 }
 
